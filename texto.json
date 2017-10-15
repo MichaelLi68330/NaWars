@@ -240,6 +240,11 @@ var symp = {
 		"acute myeloid leukaemia",
 		"heart disease"
 	],
+	"breathing":
+	[
+		"allergies",
+		"asthma"
+	],
 	"hypothermia":
 	[
 		"alcohol poisoning"
@@ -695,7 +700,7 @@ var symp = {
 	],
 	"cigarette":
 	[
-		""
+		"lung cancer"
 	],
 	"change":
 	[
@@ -861,8 +866,7 @@ var symp = {
 	],
 	"pollen":
 	[
-		"allergies",
-		""
+		"allergies"
 	],
 	"abdomen":
 	[
@@ -895,11 +899,8 @@ var symp = {
 	],
 	"sad":
 	[
-		"depression"
-	],
-	"muscle":
-	[
-		"malaria"
+		"depression",
+		"binge eating"
 	],
 	"low self-esteem":
 	[
@@ -919,7 +920,7 @@ var symp = {
 	],
 	"smoke":
 	[
-		""
+		"lung cancer"
 	],
 	"jaundice":
 	[
@@ -964,7 +965,12 @@ var symp = {
 	],
 	"depression":
 	[
-		"binge eating"
+		"binge eating",
+		"depression"
+	],
+	"kill":
+	[
+		"depression"
 	],
 	"headache":
 	[
